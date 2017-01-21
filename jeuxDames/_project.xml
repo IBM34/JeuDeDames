@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jeuxDames</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/jeuxDames/classement.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/classement.txt</locationURI>
+		</link>
+		<link>
+			<name>src/jeuxDames/partie.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/partie.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
